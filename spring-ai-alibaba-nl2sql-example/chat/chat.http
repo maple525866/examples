@@ -1,5 +1,5 @@
 # Nl2sqlForGraphController类的search方法
-GET http://localhost:8080nl2sql/search
+GET http://localhost:8080/nl2sql/search
 
 ###
 # AnalyticNl2SqlController类的nl2Sql方法
